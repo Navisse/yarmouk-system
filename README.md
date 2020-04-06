@@ -1,5 +1,5 @@
 # yarmouk-system
-This is a PyNSim model of the Yarmouk River system:
+This is a PyNSim model of the Yarmouk River system (DOI:10.5281/zenodo.3742293):
 - GR2M-v4.xlsx is the hydrological model that has been used to assess the naturalized inflows to Adasiya (outlet of the Yarmouk River basin).
 - syria_main_simu.py is the main python file that imports data from the directory "data", uses information from the files in "components" and "engines" following the PyNSim architecture, and exports results in the directory "results".
 
